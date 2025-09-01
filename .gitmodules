@@ -1,0 +1,3 @@
+[submodule "geobleu"]
+	path = geobleu
+	url = https://github.com/yahoojapan/geobleu
